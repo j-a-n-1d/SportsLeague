@@ -1,3 +1,5 @@
+Name: JANANI M
+Roll No.: 717824F123
 # 🏆 Sports League & Match Scheduling System (Java)
 
 A console-based Java application to manage sports leagues, fixtures, results, standings, and disciplinary records.  
